@@ -1,0 +1,39 @@
+
+
+.circle{
+	height: 10vw;
+	width: 20vw;
+	background-color: black;
+	border-radius: 0 0 60vw 60vw;
+	margin:auto;
+	position: relative;
+}
+
+.footer{
+	width: 100%;
+	background-color: black;
+	text-align: center;
+
+	clear: both;
+	position: relative;
+	z-index: 10;
+	height: 3em;
+	margin-top: -3em;
+
+
+}
+
+.contenedor{
+	margin-left: 19vw;
+
+
+}
+
+.cuadro{
+	float: left;
+	height: 15vw;
+	width: 15vw;
+	border-radius: 4px;
+	background-color: gold;
+	margin: 1vh;
+}
